@@ -1,0 +1,26 @@
+[
+  {
+    "godownId": 1,
+    "godownLocation": "Chennai"
+  },
+  {
+    "godownId": 2,
+    "godownLocation": "Coimbatore"
+  },
+  {
+    "godownId": 3,
+    "godownLocation": "Erode"
+  },
+  {
+    "godownId": 4,
+    "godownLocation": "Avadi"
+  },
+  {
+    "godownId": 5,
+    "godownLocation": "Trichy"
+  },
+  {
+    "godownId": 6,
+    "godownLocation": "Vellore"
+  }
+]
